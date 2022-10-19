@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - a program to print 0 - 10 in a newline
+* main - a program to print all possible combinations of single digit numbers
 *
 * Return: Always success
 */
